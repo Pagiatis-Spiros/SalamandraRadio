@@ -24,7 +24,7 @@ Compatible with Windows 7 SP1 + ESE (*), 8.1, 10 and 11.
 # Περιεχόμενα
 
 - [Δυνατότητες](#Δυνατότητες)
-- [Οδηγός χρήσης](#Οδηγός-χρήσης)
+- [Οδηγίες](#Οδηγίες)
 - [Οθόνες του προγράμματος](#Οθόνες-του-προγράμματος)
 - [Συνεισφορές στο πρόγραμμα](#Συνεισφορές-στο-πρόγραμμα)
 - [Δωρεές στον δημιουργό](#Δωρεές-στον-δημιουργό)
@@ -38,7 +38,7 @@ Compatible with Windows 7 SP1 + ESE (*), 8.1, 10 and 11.
 * A simplified player to pre-listen audio files in another sound output.
 * Auto-generated log files to register any player activity or errors.
 
-# Οδηγός χρήσης
+# Οδηγίες
 You can download the <a href="https://github.com/ocarolino/SalamandraRadio/releases/latest/download/Salamandra.rar">latest release</a>, unzip and open Salamandra.exe. There's no need for installation or extra configurations. We have these tutorials at the moment:
 
 - <a href="https://github.com/Pagiatis-Spiros/SalamandraRadio/blob/d14da0063c4062ef2889a9af5f01e5c758860609/Docs/How%20to%20Install.md">Εγκατάσταση του προγράμματος</a>
