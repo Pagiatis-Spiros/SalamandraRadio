@@ -21,26 +21,16 @@ Compatible with Windows 7 SP1 + ESE (*), 8.1, 10 and 11.
 
 <hr>
 
-<p align="center">
-	<a href="https://github.com/ocarolino/SalamandraRadio"><img src="Readme/Flags/us.png"/> English</a> | <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Lang/README.pt-BR.md"><img src="Readme/Flags/br.png"/> Português do Brasil</a>
-</p>
+# Περιεχόμενα
 
-<p align="center">
-<a href="https://facebook.com/salamandraradiosoftware">Join us at Facebook!</a>
-</p>
+- [Δυνατότητες](#Δυνατότητες)
+- [Οδηγός χρήσης](#Οδηγός-χρήσης)
+- [Οθόνες του προγράμματος](#Οθόνες-του-προγράμματος)
+- [Συνεισφορές στο πρόγραμμα](#Συνεισφορές-στο-πρόγραμμα)
+- [Δωρεές στον δημιουργό](#Δωρεές-στον-δημιουργό)
+- [Βιβλιοθήκες και πόροι](#Βιβλιοθήκες-και-πόροι)
 
-<hr>
-
-# Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
-- [Contributions](#contributions)
-- [Donations](#donations)
-- [Libraries and Resources](#libraries-and-resources)
-
-# Features
+# Δυνατότητες
 * Player with support for major audio files (wav, mp3, wma, ogg and flac)
 * Multiple track selection modes, like random, shuffle or manual for playback control.
 * Special tracks, like time announcements and random audio files from a folder.
@@ -48,7 +38,7 @@ Compatible with Windows 7 SP1 + ESE (*), 8.1, 10 and 11.
 * A simplified player to pre-listen audio files in another sound output.
 * Auto-generated log files to register any player activity or errors.
 
-# Getting Started
+# Οδηγός χρήσης
 You can download the <a href="https://github.com/ocarolino/SalamandraRadio/releases/latest/download/Salamandra.rar">latest release</a>, unzip and open Salamandra.exe. There's no need for installation or extra configurations. We have these tutorials at the moment:
 
 - <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Docs/How%20to%20Install.md">How to install/update Salamandra</a>
@@ -57,7 +47,7 @@ You can download the <a href="https://github.com/ocarolino/SalamandraRadio/relea
 
 In our tutorials you can see an overview of Salamandra functionalities. But even for settings not explained yet, Salamandra is designed to be intuitive, with all relevant functions written in a clear manner. You can also put the cursor on top of any option and read an explanation of what it does.
 
-# Screenshots
+# Οθόνες του προγράμματος
 
 ### Main Player
 <p align="center">
@@ -79,14 +69,14 @@ In our tutorials you can see an overview of Salamandra functionalities. But even
 	<img src="Readme/sc04.png" alt="Pre-Listen"/>
 </p>
 
-# Contributions
+# Συνεισφορές στο πρόγραμμα 
 First of all, thanks for thinking in contributing to this project! Salamandra is an freeware software, but not open source - this does not mean that contributions are not welcome! 
 
 You can always contribute with testing, documentation, translations, reporting bugs or sharing ideas for new functionalities.
 
 Right now, what we really need is testing. All functionalities are stable in our testing enviroments, but bugs and unexpected behaviors can happen in differents setups, even more in these initial releases.
 
-# Donations
+# Δωρεές στον δημιουργό
 
 <p align="center">
 <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/BACKERS.md">List of our backers!</a>
@@ -122,7 +112,7 @@ AFTER MAKING THE DONATION, send the receipt to the email: <a href="mailto:salama
 
 Before making any donations, please understand that this is one of the ways of showing your appreciation for this project - **there will be no buyer/seller relationship!**. There is no promises of warranty, support, attention to new functionality requests or any obligations between me (developer) and you (user) through a contribution.
 
-# Libraries and Resources
+# Βιβλιοθήκες και πόροι
 
 * [BASS](https://www.un4seen.com/)
 * [ManagedBass](https://github.com/ManagedBass/ManagedBass)
