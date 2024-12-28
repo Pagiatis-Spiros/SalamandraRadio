@@ -1,5 +1,6 @@
 <p align="center">
 	<img alt="Salamandra" height="150" src="Readme/lizard.png"/>
+	<img alt="Salamandra" height="150" src="https://avatars.githubusercontent.com/u/183642810?v=4"/>
 </p>
 
 <p align="center">
