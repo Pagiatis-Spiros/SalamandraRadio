@@ -41,9 +41,9 @@ Compatible with Windows 7 SP1 + ESE (*), 8.1, 10 and 11.
 # Οδηγός χρήσης
 You can download the <a href="https://github.com/ocarolino/SalamandraRadio/releases/latest/download/Salamandra.rar">latest release</a>, unzip and open Salamandra.exe. There's no need for installation or extra configurations. We have these tutorials at the moment:
 
-- <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Docs/How%20to%20Install.md">How to install/update Salamandra</a>
-- <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Docs/Getting%20Started.md">Getting started</a>
-- <a href="https://github.com/ocarolino/SalamandraRadio/blob/main/Docs/How%20to%20create%20CurrentSong.md">How to create a CurrentSong file</a>
+- <a href="https://github.com/Pagiatis-Spiros/SalamandraRadio/blob/d14da0063c4062ef2889a9af5f01e5c758860609/Docs/How%20to%20Install.md">Εγκατάσταση του προγράμματος</a>
+- <a href="https://github.com/Pagiatis-Spiros/SalamandraRadio/blob/d14da0063c4062ef2889a9af5f01e5c758860609/Docs/Getting%20Started.md">Αρχικός οδηγός χρήσης</a>
+- <a href="https://github.com/Pagiatis-Spiros/SalamandraRadio/blob/d14da0063c4062ef2889a9af5f01e5c758860609/Docs/How%20to%20create%20CurrentSong.md">Δημιουργία CurrentSong file</a>
 
 In our tutorials you can see an overview of Salamandra functionalities. But even for settings not explained yet, Salamandra is designed to be intuitive, with all relevant functions written in a clear manner. You can also put the cursor on top of any option and read an explanation of what it does.
 
