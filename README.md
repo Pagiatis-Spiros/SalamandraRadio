@@ -39,7 +39,8 @@ Compatible with Windows 7 SP1 + ESE (*), 8.1, 10 and 11.
 * Auto-generated log files to register any player activity or errors.
 
 # Οδηγίες
-You can download the <a href="https://github.com/ocarolino/SalamandraRadio/releases/latest/download/Salamandra.rar">latest release</a>, unzip and open Salamandra.exe. There's no need for installation or extra configurations. We have these tutorials at the moment:
+Μπορείτε να δείτε τις εκδόσεις και να κατεβάσετε το πρόγραμμα [εδώ](https://github.com/ocarolino/SalamandraRadio/releases/tag/0.6.0.4), θα πρότεινα για καλύτερο assocation των αρχείων να γίνει εγκτάσταση μέσω του [installer](https://github.com/ocarolino/SalamandraRadio/releases/download/0.6.0.4/SalamandraInstaller.rar).
+Αν απλά θέλετε να το δοκιμάσετε μπορείτε να κατεβάσετε την [portable έκδοση](https://github.com/ocarolino/SalamandraRadio/releases/download/0.6.0.4/Salamandra.rar) η οποία τρέχει κατευθείαν χωρίς εγκατάσταση
 
 - <a href="https://github.com/Pagiatis-Spiros/SalamandraRadio/blob/d14da0063c4062ef2889a9af5f01e5c758860609/Docs/How%20to%20Install.md">Εγκατάσταση του προγράμματος</a>
 - <a href="https://github.com/Pagiatis-Spiros/SalamandraRadio/blob/d14da0063c4062ef2889a9af5f01e5c758860609/Docs/Getting%20Started.md">Αρχικός οδηγός χρήσης</a>
