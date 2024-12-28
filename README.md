@@ -25,6 +25,7 @@ Compatible with Windows 7 SP1 + ESE (*), 8.1, 10 and 11.
 
 - [Δυνατότητες](#Δυνατότητες)
 - [Οδηγίες](#Οδηγίες)
+- [Βίντεο οδηγιών στα Ελληνικά](#Βίντεο-οδηγιών-στα-Ελληνικά)
 - [Οθόνες του προγράμματος](#Οθόνες-του-προγράμματος)
 - [Συνεισφορές στο πρόγραμμα](#Συνεισφορές-στο-πρόγραμμα)
 - [Δωρεές στον δημιουργό](#Δωρεές-στον-δημιουργό)
@@ -39,14 +40,19 @@ Compatible with Windows 7 SP1 + ESE (*), 8.1, 10 and 11.
 * Auto-generated log files to register any player activity or errors.
 
 # Οδηγίες
-Μπορείτε να δείτε τις εκδόσεις και να κατεβάσετε το πρόγραμμα [εδώ](https://github.com/ocarolino/SalamandraRadio/releases/tag/0.6.0.4), θα πρότεινα για καλύτερο assocation των αρχείων να γίνει εγκτάσταση μέσω του [installer](https://github.com/ocarolino/SalamandraRadio/releases/download/0.6.0.4/SalamandraInstaller.rar).
+Μπορείτε να δείτε τις εκδόσεις και να κατεβάσετε το πρόγραμμα από [εδώ](https://github.com/ocarolino/SalamandraRadio/releases/tag/0.6.0.4), θα πρότεινα για καλύτερο assocation των αρχείων να γίνει εγκτάσταση μέσω του [installer](https://github.com/ocarolino/SalamandraRadio/releases/download/0.6.0.4/SalamandraInstaller.rar).  
 Αν απλά θέλετε να το δοκιμάσετε μπορείτε να κατεβάσετε την [portable έκδοση](https://github.com/ocarolino/SalamandraRadio/releases/download/0.6.0.4/Salamandra.rar) η οποία τρέχει κατευθείαν χωρίς εγκατάσταση
 
 - <a href="https://github.com/Pagiatis-Spiros/SalamandraRadio/blob/d14da0063c4062ef2889a9af5f01e5c758860609/Docs/How%20to%20Install.md">Εγκατάσταση του προγράμματος</a>
 - <a href="https://github.com/Pagiatis-Spiros/SalamandraRadio/blob/d14da0063c4062ef2889a9af5f01e5c758860609/Docs/Getting%20Started.md">Αρχικός οδηγός χρήσης</a>
 - <a href="https://github.com/Pagiatis-Spiros/SalamandraRadio/blob/d14da0063c4062ef2889a9af5f01e5c758860609/Docs/How%20to%20create%20CurrentSong.md">Δημιουργία CurrentSong file</a>
 
-In our tutorials you can see an overview of Salamandra functionalities. But even for settings not explained yet, Salamandra is designed to be intuitive, with all relevant functions written in a clear manner. You can also put the cursor on top of any option and read an explanation of what it does.
+# Βίντεο οδηγιών στα Ελληνικά
+Εδώ μελλοντικά θα μπούν διάφορα βιντεάκια με οδηγίες
+
+- [Βίντεο 1]()
+- [Βίντεο 2]()
+- [Βίντεο 3]()
 
 # Οθόνες του προγράμματος
 
