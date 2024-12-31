@@ -51,12 +51,12 @@ Compatible with Windows 7 SP1 + ESE (*), 8.1, 10 and 11.
 - <a href="https://github.com/Pagiatis-Spiros/SalamandraRadio/blob/d14da0063c4062ef2889a9af5f01e5c758860609/Docs/Getting%20Started.md">Αρχικός οδηγός χρήσης</a>
 - <a href="https://github.com/Pagiatis-Spiros/SalamandraRadio/blob/d14da0063c4062ef2889a9af5f01e5c758860609/Docs/How%20to%20create%20CurrentSong.md">Δημιουργία CurrentSong file</a>
 
-# Βίντεο οδηγιών στα Ελληνικά
-Εδώ μελλοντικά θα μπούν διάφορα βιντεάκια με οδηγίες
+# Οδηγείες και οδηγοί χρήσης στα Ελληνικά
+Εδώ μελλοντικά θα μπούν διάφορα βιντεάκια και οδηγοί χρήσης για το πρόγραμμα
 
-- [Βίντεο 1]()
-- [Βίντεο 2]()
-- [Βίντεο 3]()
+- [Βίντεο 1...]()
+- [Βίντεο 2...]()
+- [Οδηγός χρήσης 1...]()
 
 # Οθόνες του προγράμματος
 
