@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-	<b>url σελίδας: <a href="https://spiros.netlify.app/">https://spiros.netlify.app</a></b>
-</p>
-
-<p align="center">
 	<b>Salamandra</b> is a radio automation software for <b>Windows</b>.
 </p> 
 
