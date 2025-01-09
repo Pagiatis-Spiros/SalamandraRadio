@@ -52,6 +52,12 @@ Compatible with Windows 7 SP1 + ESE (*), 8.1, 10 and 11.
 </ul>
 <h1 id="link2">Οδηγίες</h1>
 <p>Μπορείτε να δείτε τις εκδόσεις και να κατεβάσετε το πρόγραμμα από <a href="https://github.com/ocarolino/SalamandraRadio/releases/tag/0.6.0.4">εδώ</a>, θα πρότεινα για καλύτερο assocation των αρχείων να γίνει εγκτάσταση μέσω του <a href="https://github.com/ocarolino/SalamandraRadio/releases/download/0.6.0.4/SalamandraInstaller.rar">installer</a>.<br>Αν απλά θέλετε να το δοκιμάσετε μπορείτε να κατεβάσετε την <a href="https://github.com/ocarolino/SalamandraRadio/releases/download/0.6.0.4/Salamandra.rar">portable έκδοση</a> η οποία τρέχει κατευθείαν χωρίς εγκατάσταση</p>
+
+<p>Τελικά το πρόβλημα ήταν με ένα addon dll της βιβλιοθήκης BASS το bassape.dll. Το συγκεκριμένο dll ενώ ήταν ψηφιακά πιστοποιημένο για κάποιο λόγο το endpoint security της checkpoint το περνούσε σαν false positive. Έγιναν κάποιες προσπάθειες επικοινωνίας με τον δημιουργό του προγράμματος όπως και με τα κεντρικά της checkpoint και της un4seen.com αλλά αποδείχθηκαν άκαρπες. Οπότε προσπάθησα από μόνος να δω αν μπορεί να γίνει κάτι,
+αφαιρώντας την version v2.4 του bassape.dll και προσθέτοντας την v2.4.0.1. Τελικά το πείραμα στέφθηκε με επιτυχία και περνάει όλα τα check του harmony checkpoint.</p> 
+
+<p>Σας βάζω εδώ το <a href="https://drive.google.com/file/d/1ZwXBegxOqXBPDwHTNJ9iwch78GjiiKag/view">link του google drive</a> όπου υπάρχει το Modified Salamandra στο οποίο πρέπει να γίνουν δοκιμές καλής λειτουργίας (στο πρόγραμμα έβαλα τον κωδικό: spiros, γιατί λόγω της άδειας του δεν επιτρέπονται τροποποιήσεις)</p>
+
 <ul>
 <li><a href="https://github.com/Pagiatis-Spiros/SalamandraRadio/blob/d14da0063c4062ef2889a9af5f01e5c758860609/Docs/How%20to%20Install.md">Εγκατάσταση του προγράμματος</a></li>
 <li><a href="https://github.com/Pagiatis-Spiros/SalamandraRadio/blob/d14da0063c4062ef2889a9af5f01e5c758860609/Docs/Getting%20Started.md">Αρχικός οδηγός χρήσης</a></li>
@@ -144,4 +150,3 @@ AFTER MAKING THE DONATION, send the receipt to the email: <a href="mailto:salama
 <li><a href="fonts.google.com/icons">Material Design Icons</a></li>
 </ul>
 </div></div></body>                            </html>
-
